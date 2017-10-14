@@ -1,0 +1,12 @@
+From https://www.youtube.com/watch?v=M3Nn8nfXuB0&feature=youtu.be:
+
+### Cadastre
+
+An idea from the middle ages. A ledger that contains all the assets in a particular community.
+
+Key principles:
+
+1. Logically centralized, one view of state, but no central control
+2. To separate the control plane from the data plane
+3. A new architecture must be compatible with the old architecture. It must be able to grow without directly displacing or confronting the established powers.
+4. It takes a low-entropy carrier, a carrier with no surprises, to bear high-entropy creativity and messages. (The blockchain is the low-entropy carrier.)
